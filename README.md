@@ -4,3 +4,7 @@ practic
 ## Subheader
 
 WorkHard!
+
+## Local Development
+
+1. Open your index.html in your browser.
